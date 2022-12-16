@@ -1,5 +1,5 @@
 # Arseniy Kochnev #
-Текст 1 
+FRONTEND DEVELOPER
 ********* 
 Текст 2 
 ====
