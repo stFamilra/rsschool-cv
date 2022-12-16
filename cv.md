@@ -7,13 +7,25 @@
 
 
 **Phone:**
+
+
+
 ********* 
 ### About Me ###
 text
+
+
+
 ********* 
 ### Skills ###
 text
+
+
+
 ********* 
 ### Code example ###
 text
+
+
+
 ********* 
