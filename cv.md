@@ -2,11 +2,11 @@
 ## Frontend Developer ##
 
 ### Contacts ###
-** Email: **
+**Email:**
 
 
 
-** Phone: **
+**Phone:**
 
 
 
