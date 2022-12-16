@@ -1,7 +1,7 @@
 # Arseniy Kochnev #
 **Frontend Developer**
 ********* 
-Contacts
+Contacts ---
 Email:
 Phone:
 ********* 
