@@ -1,6 +1,15 @@
 # Arseniy Kochnev #
 **Frontend Developer**
 ********* 
-Текст 2 
-====
-ggg
+Contacts
+Email:
+Phone:
+********* 
+About Me
+
+********* 
+Skills
+********* 
+Code example
+
+********* 
